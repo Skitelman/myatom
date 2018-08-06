@@ -1,0 +1,45 @@
+"*":
+  core:
+    audioBeep: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "jshint"
+      "busy-signal"
+      "linter"
+      "linter-jshint"
+      "linter-ui-default"
+      "open-in-browser"
+    ]
+    excludeVcsIgnoredPaths: false
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "hyperclick"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 15
+    invisibles: {}
+    preferredLineLength: 120
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "15994ed6-69e5-3416-8296-2ec8edddafd4"
+  "fuzzy-finder": {}
+  "js-hyperclick": {}
+  "linter-jshint": {}
+  "linter-ui-default":
+    panelHeight: 69
+  "one-dark-ui": {}
+  "prettier-atom":
+    formatOnSaveOptions: {}
+    prettierOptions:
+      arrowParens: "always"
+      singleQuote: true
+      trailingComma: "es5"
+    scopes: {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
